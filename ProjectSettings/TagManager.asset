@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ice_Wizard
+  - Fire_Wizard
+  - Lightening_Wizard
+  - Ice_Enemy
+  - Fire_Enemy
+  - Lightening_Enemy
+  - Almighty_Enemy
   layers:
   - Default
   - TransparentFX

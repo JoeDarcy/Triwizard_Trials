@@ -6,6 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/00_Menu.unity
+    guid: 4f570494fbef3174899ec379ac4c7bd9
+  - enabled: 1
+    path: Assets/Scenes/01_Tutorial.unity
+    guid: a5cb8cadd0541734b9b50fb2a1920904
+  - enabled: 1
+    path: Assets/Scenes/02_Fight_1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/03_Fight_2.unity
+    guid: d50970d3ca9d79f47a54352e9c019a0b
+  - enabled: 1
+    path: Assets/Scenes/04_Fight_3.unity
+    guid: 86c1b13d6b99ecf458f5ed27e0163dd7
+  - enabled: 1
+    path: Assets/Scenes/05_Boss.unity
+    guid: 5a426d0bed8d86a41909f078e315e954
+  - enabled: 1
+    path: Assets/Scenes/06_Credits.unity
+    guid: 8bc579b402ef2d8489a3de03f186fb15
+  - enabled: 1
+    path: Assets/Scenes/07_Leave_Wizard.unity
+    guid: 43beb00b7aa01694db3744384ee006ee
+  - enabled: 1
+    path: Assets/Scenes/08_Resurrection_Stone.unity
+    guid: de77370e8c90e614cbd4bac5289cc612
   m_configObjects: {}
